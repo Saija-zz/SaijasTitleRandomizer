@@ -1,0 +1,6 @@
+## Title: Saija's Title Randomizer
+## Description: A little addon used to randomize the title used among all titles acquired by the character
+## APIVersion: 100022
+## Author: Julian Borrero(Aka Saija)
+
+SaijasTitleRandomizer.lua
